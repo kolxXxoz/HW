@@ -1,0 +1,7 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\bin\Debug\hw5_1.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\bin\Debug\hw5_1.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\bin\Debug\hw5_1.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\obj\Debug\hw5_1.csproj.AssemblyReference.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\obj\Debug\hw5_1.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\obj\Debug\hw5_1.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw5_1\hw5_1\obj\Debug\hw5_1.pdb
