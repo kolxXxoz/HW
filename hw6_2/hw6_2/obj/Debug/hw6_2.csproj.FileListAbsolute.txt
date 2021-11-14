@@ -1,0 +1,6 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\bin\Debug\hw6_2.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\bin\Debug\hw6_2.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\bin\Debug\hw6_2.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\obj\Debug\hw6_2.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\obj\Debug\hw6_2.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\hw6_2\hw6_2\obj\Debug\hw6_2.pdb
