@@ -1,0 +1,6 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\bin\Debug\task8_3.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\bin\Debug\task8_3.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\bin\Debug\task8_3.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\obj\Debug\task8_3.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\obj\Debug\task8_3.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_3\task8_3\obj\Debug\task8_3.pdb

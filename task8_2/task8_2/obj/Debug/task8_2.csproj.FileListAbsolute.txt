@@ -1,0 +1,7 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\obj\Debug\task8_2.csproj.AssemblyReference.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\obj\Debug\task8_2.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\bin\Debug\task8_2.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\bin\Debug\task8_2.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\bin\Debug\task8_2.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\obj\Debug\task8_2.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\task8_2\task8_2\obj\Debug\task8_2.pdb
