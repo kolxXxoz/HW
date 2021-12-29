@@ -1,0 +1,7 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\bin\Debug\zachyot1.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\bin\Debug\zachyot1.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\bin\Debug\zachyot1.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\obj\Debug\zachyot1.csproj.AssemblyReference.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\obj\Debug\zachyot1.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\obj\Debug\zachyot1.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\zachyot1\zachyot1\obj\Debug\zachyot1.pdb
