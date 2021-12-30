@@ -1,0 +1,7 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\bin\Debug\Verhoeff_Algorithm.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\bin\Debug\Verhoeff_Algorithm.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\bin\Debug\Verhoeff_Algorithm.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\obj\Debug\Verhoeff_Algorithm.csproj.AssemblyReference.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\obj\Debug\Verhoeff_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\obj\Debug\Verhoeff_Algorithm.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\Verhoeff_Algorithm\Verhoeff_Algorithm\obj\Debug\Verhoeff_Algorithm.pdb
