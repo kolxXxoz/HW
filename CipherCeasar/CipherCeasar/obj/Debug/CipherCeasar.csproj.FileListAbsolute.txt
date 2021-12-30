@@ -1,0 +1,7 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\bin\Debug\CipherCeasar.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\bin\Debug\CipherCeasar.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\bin\Debug\CipherCeasar.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\obj\Debug\CipherCeasar.csproj.AssemblyReference.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\obj\Debug\CipherCeasar.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\obj\Debug\CipherCeasar.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherCeasar\CipherCeasar\obj\Debug\CipherCeasar.pdb

@@ -1,0 +1,6 @@
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\bin\Debug\CipherVernam.exe.config
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\bin\Debug\CipherVernam.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\bin\Debug\CipherVernam.pdb
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\obj\Debug\CipherVernam.csproj.CoreCompileInputs.cache
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\obj\Debug\CipherVernam.exe
+C:\Users\kolxoz\source\repos\kolxXxoz\HW\CipherVernam\CipherVernam\obj\Debug\CipherVernam.pdb
